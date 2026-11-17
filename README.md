@@ -1,112 +1,99 @@
 <div align="center">
-
-<!-- Cyber / neon profile header -->
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111B3D,100:00E5FF&height=210&section=header&text=EMIRHAN%20AKCAY&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Yazilim%20Muhendisi%20-%20Mobil%20ve%20Yapay%20Zeka&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Emirhan Akcay" />
-
-
-# Merhaba, ben Emirhan! 👋
-
-### `Yazılım Mühendisi` · `Mobil Uygulama Geliştirme` · `Yapay Zekâ`
-
-Kullanıcı odaklı ürünler geliştirmeyi, yeni teknolojileri keşfetmeyi ve gerçek problemlere yazılım ile çözüm üretmeyi seviyorum.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Emirstark-111827?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Emirstark)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilim-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emirhan-akçay-b40383360/)
-
+  <!-- Premium Yazılımcı Animasyonu -->
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Software Developer Animation" width="350"/>
+  <br/>
+  
+  <!-- Terminal Tarzı Kod Animasyonu (Cyan Renginde) -->
+  <a href="https://github.com/Emirstark">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E_print(%22Hello%2C+World!%22);%3E_Emirhan.role+%3D+%22Software+Engineer%22;%3E_Emirhan.build(scalable_systems);%3E_System.ready()%E2%96%88" alt="Typing SVG" />
+  </a>
 </div>
 
----
-
-## 🧬 Hakkımda
-
-- 🎓 Nişantaşı Üniversitesi — Yazılım Mühendisliği, 2026
-- 📱 Flutter ve SwiftUI ile mobil uygulama geliştirme
-- 🤖 Yapay zekâ servisleri ve API entegrasyonları üzerine çalışmalar
-- 🔧 REST API, Firebase ve uygulama test süreçlerinde deneyim
-- 🌱 SQL, MySQL, Docker ve backend mimarileri alanlarında kendimi geliştiriyorum
-- 🤝 Takım çalışmalarında ve bireysel geliştirme süreçlerinde aktif rol almayı seviyorum
-
----
-
-## ⚙️ Teknoloji Laboratuvarım
-
+<!-- İnce Neon Ayırıcı -->
 <div align="center">
-
-**Diller & Mobil**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,swift,c,python,php&theme=dark" alt="Programlama dilleri ve mobil teknolojiler" />
-
-**Backend, Veritabanı & Araçlar**
-
-<img src="https://skillicons.dev/icons?i=firebase,laravel,mysql,git,github,postman,docker,vscode,figma&theme=dark" alt="Backend ve geliştirme araçları" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:38BDF8,100:0B0F19&height=2" width="100%"/>
 </div>
+<br/>
 
----
+<h2 align="center"> 👨‍💻 Vizyon & Profil </h2>
+<p align="center">
+  Nişantaşı Üniversitesi <b>Yazılım Mühendisliği</b> (%100 İngilizce) mezunuyum. Sadece kod yazmaya değil; <b>temiz mimari (clean architecture)</b> kurmaya, yapay zekâ entegrasyonlarına ve gerçek dünya problemlerini çözen uçtan uca dijital ürünler geliştirmeye odaklanıyorum. Yeni nesil AI araçlarını süreçlerime entegre ederek, kullanıcı deneyimini merkeze alan yüksek performanslı sistemler inşa ediyorum.
+</p>
 
-## 🚀 Öne Çıkan Projeler
+<br/>
 
-<table>
+<!-- UZMANLIK ALANLARI (YENİ EKLENEN KISIM) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/📱_Mobile_App_Development-0B0F19?style=for-the-badge&textColor=38BDF8&border=38BDF8" alt="Mobile App Development"/> &nbsp;
+  <img src="https://img.shields.io/badge/🤖_AI_Integrations-0B0F19?style=for-the-badge&textColor=38BDF8&border=38BDF8" alt="AI"/> &nbsp;
+  <img src="https://img.shields.io/badge/💻_Modern_Front--End-0B0F19?style=for-the-badge&textColor=38BDF8&border=38BDF8" alt="Front-End"/> &nbsp;
+  <img src="https://img.shields.io/badge/⚙️_Scalable_Backend-0B0F19?style=for-the-badge&textColor=38BDF8&border=38BDF8" alt="Backend"/>
+</div>
+<p align="center">
+  <sub>Kullanıcı dostu mobil uygulamalar, yapay zekâ destekli algoritmalar ve güçlü frontend/backend mimarileri ile uçtan uca çözümler üretiyorum.</sub>
+</p>
+
+<br/>
+<!-- İnce Neon Ayırıcı -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:38BDF8,100:0B0F19&height=2" width="100%"/>
+</div>
+<br/>
+
+<h2 align="center"> 🚀 Öne Çıkan Projeler & Çözümler </h2>
+
+<table width="100%" border="0" align="center">
   <tr>
-    <td width="50%">
-      <h3>🚗 All of Car</h3>
-      <p>Yapay zekâ destekli araç keşif ve değerlendirme uygulaması. Araç karşılaştırma, arıza tespiti ve otomotiv odaklı içerikleri tek platformda buluşturmayı hedefler.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>AI</code></p>
+    <td width="33%" align="center" valign="top">
+      <h3>📱 Mobil Ekosistemler</h3>
+      <p><b>All of Car & KoyApp</b></p>
+      <p>Kullanıcı odaklı, yüksek performanslı ve karmaşık iş mantığına sahip uçtan uca dijital platformlar.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Flutter-0B0F19?style=flat&logo=flutter&logoColor=38BDF8&border=38BDF8" />
+      <img src="https://img.shields.io/badge/React_Native-0B0F19?style=flat&logo=react&logoColor=38BDF8&border=38BDF8" />
     </td>
-    <td width="50%">
-      <h3>🌾 KoyApp</h3>
-      <p>Çiftçi, veteriner ve yönetim süreçlerini bir araya getirmeyi amaçlayan tarım ve hayvancılık takip uygulaması. Hayvan kayıtları, sağlık geçmişi ve çiftlikler arası transfer süreçlerine odaklanır.</p>
-      <p><code>React Native</code> <code>Expo</code> <code>Backend</code></p>
+    <td width="33%" align="center" valign="top">
+      <h3>🤖 Yapay Zekâ & Ar-Ge</h3>
+      <p><b>Real-Time Speech Translator</b></p>
+      <p>Düşük gecikmeli ses tanıma (STT) ve cihazlar arası gerçek zamanlı iletişim sağlayan AI modelleri.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Whisper_AI-0B0F19?style=flat&logo=openai&logoColor=38BDF8&border=38BDF8" />
+      <img src="https://img.shields.io/badge/SwiftUI-0B0F19?style=flat&logo=swift&logoColor=38BDF8&border=38BDF8" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎙️ Real-Time Speech Translator</h3>
-      <p>İki cihaz arasında çevrimdışı konuşma tanıma ve çeviri deneyimi üzerine AR-GE projesi.</p>
-      <p><code>Swift</code> <code>SwiftUI</code> <code>Apple Speech</code></p>
-    </td>
-    <td width="50%">
-      <h3>🧩 Diğer çalışmalar</h3>
-      <p>Randevu sistemi ve Laravel tabanlı web uygulamaları gibi farklı alanlarda geliştirme ve denemeler.</p>
-      <p><code>PHP</code> <code>Laravel</code> <code>REST API</code></p>
+    <td width="33%" align="center" valign="top">
+      <h3>⚙️ Ölçeklenebilir Backend</h3>
+      <p><b>Appointment Management</b></p>
+      <p>Sistemin kalbini oluşturan güvenli, optimize edilmiş REST API ve mimari veritabanı altyapıları.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Laravel-0B0F19?style=flat&logo=laravel&logoColor=38BDF8&border=38BDF8" />
+      <img src="https://img.shields.io/badge/Firebase-0B0F19?style=flat&logo=firebase&logoColor=38BDF8&border=38BDF8" />
     </td>
   </tr>
 </table>
 
----
-
-## 📊 GitHub İstatistikleri
-
+<br/>
+<!-- İnce Neon Ayırıcı -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:38BDF8,100:0B0F19&height=2" width="100%"/>
+</div>
+<br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Emirstark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github&locale=tr" alt="GitHub istatistikleri" />
-<img height="165" src="https://streak-stats.demolab.com?user=Emirstark&theme=transparent&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub katkı serisi" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirstark&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8&locale=tr" alt="En çok kullanılan diller" />
-
+<h2 align="center"> ⚡ Teknik Ekosistem </h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,react,php,laravel,js,firebase,mysql,docker,git,postman&theme=dark&perline=12" alt="Tech Stack Icons" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,github,gitlab,figma,linux&theme=dark&perline=12" alt="Tools Icons" />
 </div>
 
----
-
-## 🐍 Katkı Grafiğim
-
+<br/>
+<!-- İnce Neon Ayırıcı -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Emirstark/Emirstark/output/snake.svg" alt="GitHub katkı grafiği yılan animasyonu" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:38BDF8,100:0B0F19&height=2" width="100%"/>
 </div>
-
----
+<br/>
 
 <div align="center">
-
-### 💬 Birlikte üretelim!
-
-Yeni fikirlere, yazılım projelerine ve iş birliklerine açığım.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:111B3D,100:050816&height=100&section=footer" width="100%" alt="Profil alt görseli" />
-
+  <a href="https://www.linkedin.com/in/emirhan-ak%C3%A7ay-b40383360/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Emirhan_Akçay-0B0F19?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0F172A&border=38BDF8" alt="LinkedIn" />
+  </a>
 </div>
