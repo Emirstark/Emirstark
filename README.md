@@ -2,7 +2,8 @@
 
 <!-- Cyber / neon profile header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111B3D,100:00E5FF&height=210&section=header&text=EM%C4%B0RHAN%20AK%C3%87AY&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Yaz%C4%B1l%C4%B1m%20M%C3%BChendisi%20%7C%20Mobil%20%26%20Yapay%20Zek%C3%A2&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Emirhan Akçay profil başlığı" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111B3D,100:00E5FF&height=210&section=header&text=EMIRHAN%20AKCAY&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Yazilim%20Muhendisi%20-%20Mobil%20ve%20Yapay%20Zeka&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Emirhan Akcay" />
 
 
 # Merhaba, ben Emirhan! 👋
